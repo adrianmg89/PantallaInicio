@@ -1,0 +1,17 @@
+.letra1{
+	-fx-font-family:"FunSized";
+	-fx-font-size: 15px;
+}
+
+.letra2{
+	-fx-font-family:"Komika Text";
+	-fx-font-size: 15px;
+}
+.botones{
+	-fx-font-family:"Komika Text";
+	-fx-font-size: 15px;
+	-fx-background-color: B25EA4;
+	-fx-border-color: B25EA4;
+	-fx-text-fill: white;
+	-fx-effect: dropshadow( gaussian , rgba(0,0,0,8) , 10,0,0,0 );
+}
